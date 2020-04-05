@@ -1,9 +1,10 @@
 " Vim syntax file
-" Language:     m3u multimedia list
-" Maintainer:   Fauve <fauve.ordinator@taniere.info>
-" Last Change:  2020-04-05
-" Version:      0.1
-" @Website:     http://taniere.info
+" Language:    m3u multimedia list
+" Maintainer:  Fauve <fauve.ordinator@taniere.info>
+" Last Change: 2020-04-05
+" Version:     0.1
+" License:     MIT (see https://opensource.org/licenses/MIT)
+" Website:     http://taniere.info
 
 
 if version < 600
